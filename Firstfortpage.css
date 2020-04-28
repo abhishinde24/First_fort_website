@@ -8,7 +8,8 @@ body{
 }
 img.imga{
     color: white;
-    //font-size: 1cm;
+    width: 100%;
+    height: auto;
     float:
     border: 3px solid grey;
     left: 10%;
