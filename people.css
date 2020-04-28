@@ -1,0 +1,38 @@
+body{
+    background-color:white;
+}
+h1.heading{
+    color:white;
+    position:relative;
+    background-color:rgba(99, 99, 99, 0.596);
+    margin: 0px;
+   padding:15px;
+   padding-left:50px;
+   font-family: Georgia, 'Times New Roman', Times, serif
+ 
+}
+img.profile{
+    width:150px; 
+    float: right;
+    border-radius: 200px;
+    padding: 4px;
+    margin-top: 0px;
+   
+}
+p.profileinfo{
+    background-color: dimgrey;
+    margin:9px;
+    padding: 50px;
+    color:whitesmoke;
+    font-family: sans-serif;
+    border-bottom: 3px solid grey;
+    margin: 0px;
+}
+   
+.diva{
+    background-color: black;
+    wdith:400px;
+    padding:9px;
+    margin-top: 0px;
+
+}

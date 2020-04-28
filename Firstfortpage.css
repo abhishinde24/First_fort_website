@@ -1,0 +1,91 @@
+body{
+    background-color:gray;
+    background-image: url('FortRajgad.jpg');
+    background-size:cover;
+    background-attachment: fixed;
+    
+    
+}
+img.imga{
+    color: white;
+    //font-size: 1cm;
+    float:
+    border: 3px solid grey;
+    left: 10%;
+    border-radius:8px;
+}
+.div1{
+    border-block: 2px solid grey;
+}
+.imgpara{
+    
+    color:whitesmoke;
+    margin-top: 1px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 0.55cm;
+}
+
+.heada{
+    background-color: rgba(97, 97, 97, 0.472);
+    padding: 20px;
+    height: 1cm;
+    color:yellow;
+
+}
+.headb{
+    color:rgb(58, 58, 58);
+    top:4cm;
+    text-align: center;
+    
+}
+
+span.span{ 
+    color:black;
+    font-size: 30px;
+    position: relative;
+    top: 9px;
+    left:1px;
+}
+.paragraphmain{ background-color: rgba(77,77,77,0.5); 
+    text-align: justify;
+    color:white;
+    font-size:20px;
+    border-block: 2px;
+    margin-block: 2px solid gery;
+    font-family:sans-serif;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+ul{ 
+    float:right;
+    list-style-type:none;
+    margin-top:22px;
+    font-size: 14px;
+}
+ul li{
+    display: inline-block;
+    color: white;
+    position: relative;
+    line-height: 1cm;
+    
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+    padding: 5px 20px;
+    border: 1px solid white;
+    transition: 0.5s ease;
+    border-radius: 0.3cm;
+    ;
+    
+}
+ul li.active a{
+   background-color: #fff;
+   color:#000;
+
+}
+ul  li a:hover{
+    background-color: #fff;
+    color:#000;
+}
